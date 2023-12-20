@@ -1,11 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#2C8BBF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello+👋,+my+name+is+Matheus+Carvalho+🤓+;I'm+from+Brasil,+SãoPaulo+ SP+🗺;I+am+a+QA+Testing+Analyst+Testing+🕵️‍👨‍💻;Be+Welcome!+🥰)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello+👋,+my+name+is+Matheus+Carvalho+🤓+;I'm+from+Brasil,+SãoPaulo-SP+🗺;I+am+a+QA+Testing+Analyst+Testing+🕵️‍👨‍💻;Be+Welcome!+🥰)](https://git.io/typing-svg)
 
 <div align="center">
-  <a href="https://github.com/Fabricioperrone">
   <img height="180em"src="https://github-readme-stats.vercel.app/api?username=Fabricioperrone&show_icons=true&theme=radical&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=Fabricioperrone&show_icons=true)"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabricioperrone&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCarvalho&layout=compact&langs_count=7&theme=radical"/>
     
 
 
@@ -67,6 +66,15 @@
 <a href="https://www.linkedin.com/in/fabricioperrone-qa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-2C8BBF?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://contate.me/fabricioperroneqa" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-2C8BBF?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
+
+#
+
+<div align="center">
+  <h3>Visitors Count:</h3>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Fabricioperrone}/count.svg" /></p> 
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#2C8BBF&height=120&section=footer"/>
 
 #
 
